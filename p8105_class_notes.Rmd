@@ -1,0 +1,27 @@
+--- 
+title: "My awesome website" 
+output:
+  html_document:         
+    toc: true         
+    toc_float: true
+---
+
+# This is Kodiak's awesome website
+
+#### You can learn about me [here](about.html)
+
+![](https://media.giphy.com/media/ drXGoW1iudhKw/giphy.gif)
+
+### Lets add some links
+
+I often use [google](google.com) to do data science.
+
+### Let's add an image
+
+here's my cat
+
+#### _first take a picture, put it inside the local repository in folder 'images', then use path to link it_
+![](images/ted.jpeg)
+
+
+
